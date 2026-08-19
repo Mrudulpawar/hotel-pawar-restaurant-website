@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(216, 252, 162);
+    background:radial-gradient(#ef9949,#748f1b,#c9ec1a)
+}
+h1{
+    color: rgb(29, 2, 55);
+}
+h2{
+    background-color: rgb(165, 165, 95);
+    color: rgb(162, 10, 10);
+}
+h3{
+    background-color: rgb(47, 44, 44);
+    color: greenyellow;
+}
+p{
+    color: rgb(13, 12, 12);
+}
+a{
+    color: rgb(11, 1, 31);
+}
